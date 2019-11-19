@@ -27,6 +27,6 @@ This works for Python 2.7 and 3+.
 
 ## Usage
 
-`from loosejson import loosejson`
+`import loosejson`
 
 Just run `loosejson.parse_loosely_defined_json(text)` on a string. It returns a standard json object, just like json.loads(text), but with less of a headache.

@@ -2,11 +2,12 @@ from distutils.core import setup
 setup(
     name = 'loosejson',
     packages = ['loosejson'],
-    version = '1.0.0',
-    description = 'A library containing basic code useful when creating Docker Images for elody.com',
-    long_description = 'A library containing basic code useful when creating Docker Images for elody.com',
+    version = '1.0.3',
+    description = '',
+    long_description = '',
     author = 'Florian Dietz',
     author_email = 'floriandietz44@gmail.com',
+    url = '',
     license = 'MIT',
     package_data={
         '': ['*.txt'],
