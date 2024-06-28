@@ -13,6 +13,6 @@ setup(
         '': ['*.txt'],
     },
     install_requires=[
-        'six==1.11.0',
+        'six>=1.11.0',
     ],
 )
